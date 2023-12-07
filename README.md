@@ -96,5 +96,10 @@ Precedence: Inline > Internal > External
 2. Unordered list `ul`
 3. Both of them have `li` children elements
 
+## Tables
 
-
+- `table` - required parent element
+- `thead`, `tbody` or `tfoot` - optional elements. Help organize your table code better.
+- `tr` - table row
+- `th` - table heading
+- `td` - table data
