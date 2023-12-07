@@ -103,3 +103,17 @@ Precedence: Inline > Internal > External
 - `tr` - table row
 - `th` - table heading
 - `td` - table data
+
+## HTML FORMS
+
+Used to collect data from users
+
+- `form` element to create a form
+- `input` element. It is a self closing element.
+
+  - `type=text` -> collect text data from user.
+  - `type=email` -> collect email data from user
+  - `type=password` -> collect password data from user
+
+- `button` we can use button element to submit form data
+- `label` is an element label for input
